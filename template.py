@@ -13,7 +13,6 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
 
 venv_folder = "venv"
-dyn_scrape_folder = "dyn-scrape"
 init_script = "init.sh"
 scraping_script = "scrape.sh"
 
