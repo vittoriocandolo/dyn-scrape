@@ -1,6 +1,6 @@
 # dyn-scrape
 
-Basic script for dynamic content scraping.
+Basic script for dynamic content scraping
 
 ## How to use this script
 
